@@ -20,9 +20,9 @@ English Donate:[donate](http://beego.me/donate)
 ## Community
 QQ群：148647580
 
-BBS：[http://golanghome.com/](http://gocn.io/)
+BBS：[http://gocn.io/](http://gocn.io/)
 
-##Contributors
+## Contributors
 
 - See [contributors page](https://github.com/astaxie/build-web-application-with-golang/graphs/contributors) for full list of contributors.
 
